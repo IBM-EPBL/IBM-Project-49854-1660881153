@@ -1,0 +1,46 @@
+![Frame 1 (1)]
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FDonateBloodToDonateLifes%2F&psig=AOvVaw3BO9kphp5Tw5LawNHiawT9&ust=1666514878662000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCws-258_oCFQAAAAAdAAAAABAE)
+
+
+#PLASMA DONOR APPLICATION
+```text
+TECHNOLOGY : Cloud Application 
+IBM-Project-49854-1660881153
+```
+##SOFTWARE REQUIREMENTS:
+```text
+Python, Flask , Docker
+```
+##SYSTEM REQUIREMENT:
+```text
+8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
+During the COVID 19 crisis, the requirement of plasma became a high priority and the donor count has become low. 
+Saving the donor information and helping the needy by notifying the current donors list, would be a helping hand.
+In regard to the problem faced, an application is to be built which would take the donor details, 
+store them and inform them upon a request.
+```
+##TEAM MEMBERS
+```text
+  -VIMALRAJ T
+  -BALACHANDRU S
+  -GOKULAKANNAN N
+  -NANDHAKUMAR P
+```
+##PROJECT DESCRIPTION:
+```text
+During the COVID 19 crisis, the need for plasma increased, while the number of donors has
+decreased. Plasma is necessary for the survival of people with cancer, rare disorders,
+immunological problems, and genetic anomalies. Every blood bank claims to be out of
+blood, so we need to make people aware of the issue and offer support. Numerous camps,
+seminars, and applications can be of great help.
+```
+##PROJECT WORKFLOW:
+```text
+The user interacts with the application.
+
+Registers by giving the details as a donor.
+
+The database will have all the details and if a user posts a request then the concerned blood group donors will get notified about it.
+ ```
+ 
+
